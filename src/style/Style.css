@@ -1,0 +1,18 @@
+.block {
+  display: flex;
+}
+.images {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 100px;
+}
+.austria {
+  width: 300px;
+  aspect-ratio: 16 / 9;
+}
+.alatoo {
+  width: 300px;
+}
